@@ -1,0 +1,13 @@
+{
+  "name": "ping-csv",
+  "version": "0.0.1",
+  "description": "Utility script to periodically ping a host and log output to a CSV file",
+  "main": "ping-csv.js",
+  "author": "Lauri Virtanen",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "dateformat": "^3.0.3",
+    "ping": "^0.2.3"
+  }
+}
