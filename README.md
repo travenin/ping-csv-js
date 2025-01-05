@@ -13,6 +13,6 @@ Run `node ping-csv.js <hostname>`.
 The output CSV file is named `<hostname>.csv`.
 If the output file already exists, then the output is appended to the end of file.
 
-## Licence
+## License
 
 MIT
